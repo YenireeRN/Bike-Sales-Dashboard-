@@ -18,7 +18,7 @@ The goal was to explore customer demographics and purchasing behavior through an
 - Interactive filters by marital status, region and education.
 
 ## Project Preview
-![Bike Sales Dashboard](dashboard-preview.png)
+![Bike Sales Dashboard](Dashboard-preview.png)
 
 ## Objective
 To practice data organization, analysis and visualization using Microsoft Excel.
