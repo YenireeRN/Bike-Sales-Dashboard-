@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard-
+# Bike-Sales-Dashboard-Excel
 This project focuses on analyzing bike sales data using Microsoft Excel.
 
 The goal was to explore customer demographics and purchasing behavior through an interactive dashboard.
